@@ -85,5 +85,3 @@ int desencolar(cola *cola1, cola *fondo){
            nuevo= nuevo->siguiente;
            }
 }
-//trabajo para ingenieria
-//en software
