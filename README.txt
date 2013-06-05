@@ -1,0 +1,1 @@
+Pequeno programa en c++ que explica como se crea una cola
