@@ -13,6 +13,7 @@ void crear(cola *frente, cola *fondo);
 bool isEmpty(cola *cola1); 
 void encolar(cola *cola1, cola *fondo, int dato);
 int desencolar(cola *cola1, cola *fondo);
+void mostrar(cola *cola1);
 
 main(){
        cola cola1, fondo;
