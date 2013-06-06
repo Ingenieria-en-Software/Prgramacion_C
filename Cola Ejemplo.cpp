@@ -9,6 +9,8 @@ typedef struct Cola{
         
 typedef TipoCola *cola;
 
+//version 1.01
+
 void crear(cola *frente, cola *fondo);
 bool isEmpty(cola *cola1); 
 void encolar(cola *cola1, cola *fondo, int dato);
@@ -85,3 +87,5 @@ int desencolar(cola *cola1, cola *fondo){
            nuevo= nuevo->siguiente;
            }
 }
+
+//editado
